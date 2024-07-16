@@ -1,6 +1,5 @@
 package coding_test;
 
-
 import java.lang.Math;
 
 class Solution {
