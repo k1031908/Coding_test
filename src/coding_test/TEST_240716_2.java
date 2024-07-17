@@ -16,7 +16,7 @@ class Solution2 {
 		double tmp3 = (int) tmp2;
 		tmp3 = Math.pow(tmp3, 2);
 		
-		answer = (tmp<tmp3?0:1);
+		answer = (tmp<tmp3?1:0);
 		System.out.print(answer);
 		return answer;
 	}
